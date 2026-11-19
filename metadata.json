@@ -1,0 +1,8 @@
+{
+  "name": "The Wedding of Ulfi & Robbi",
+  "description": "Undangan Walimatul 'Ursy digital Ulfi & Robbi (Zulfikrah Larasati, S.Pd. & Muansyah Alami Robbi, S.Kom.) — Sabtu, 26 Desember 2026 di Kota Semarang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
